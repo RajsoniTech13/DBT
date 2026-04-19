@@ -1,0 +1,21 @@
+ifsc_code,bank,branch,city,district,state
+SBIN0001234,SBI,Navrangpura,Ahmedabad,ahmedabad,Gujarat
+SBIN0002345,SBI,Ashram Road,Ahmedabad,ahmedabad,Gujarat
+SBIN0003456,SBI,Ring Road,Surat,surat,Gujarat
+SBIN0004567,SBI,Rajkot Main,Rajkot,rajkot,Gujarat
+SBIN0005678,SBI,Vadodara,Vadodara,vadodara,Gujarat
+SBIN0006789,SBI,Gandhinagar,Gandhinagar,gandhinagar,Gujarat
+SBIN0007890,SBI,Bhavnagar,Bhavnagar,bhavnagar,Gujarat
+SBIN0008901,SBI,Jamnagar,Jamnagar,jamnagar,Gujarat
+HDFC0001234,HDFC,CG Road,Ahmedabad,ahmedabad,Gujarat
+HDFC0002345,HDFC,Surat Main,Surat,surat,Gujarat
+HDFC0003456,HDFC,Rajkot,Rajkot,rajkot,Gujarat
+HDFC0004567,HDFC,Vadodara,Vadodara,vadodara,Gujarat
+HDFC0005678,HDFC,Gandhinagar,Gandhinagar,gandhinagar,Gujarat
+ICIC0001234,ICICI,Prahladnagar,Ahmedabad,ahmedabad,Gujarat
+ICIC0002345,ICICI,Surat City,Surat,surat,Gujarat
+ICIC0003456,ICICI,Rajkot City,Rajkot,rajkot,Gujarat
+BKID0001234,BOI,Ahmedabad,Ahmedabad,ahmedabad,Gujarat
+BKID0002345,BOI,Surat,Surat,surat,Gujarat
+PUNB0001234,PNB,Ahmedabad,Ahmedabad,ahmedabad,Gujarat
+PUNB0002345,PNB,Vadodara,Vadodara,vadodara,Gujarat
